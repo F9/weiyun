@@ -1,0 +1,23 @@
+{
+  "name": "weiyun",
+  "version": "0.0.0",
+  "description": "a sdk of tencent weiyun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/weiyun.git"
+  },
+  "keywords": [
+    "weiyun",
+    "tencent",
+    "qq"
+  ],
+  "author": "turing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/weiyun/issues"
+  }
+}
